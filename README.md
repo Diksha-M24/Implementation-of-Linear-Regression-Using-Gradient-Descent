@@ -132,6 +132,8 @@ pred_original = y_scaler.inverse_transform(scaled_pred)
 print(f"\nPredicted Profit for the new startup: ₹{pred_original[0][0]:,.2f}")
 
 ```
+
+
 ## Output:
 <img width="845" height="730" alt="image" src="https://github.com/user-attachments/assets/df1ebc0a-a650-4d8b-b8da-4b3edee964ba" />
 <img width="828" height="432" alt="image" src="https://github.com/user-attachments/assets/1d327b23-dd1a-4efa-ab69-c20f9d459cbb" />
